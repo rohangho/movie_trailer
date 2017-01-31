@@ -1,2 +1,8 @@
-INSTRUCTION:
-click on the fresh tomato.py . it will give a website which will have 5 movie name in it. click any one and enjoy the trailer.
+cd movie-traile
+  python setup.py install
+  ```
+ -Usage:
+ +## Usage
+  click on the fresh_tomatoes.py and watch the trailer
+  
+  #### Note : Viewing copyrighted contents might be illegal in your country. Use it at your own risk!
